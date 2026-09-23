@@ -8,7 +8,7 @@ The sensor data used in this project is completely simulated and is not based on
 
 ## Example GIF
 
-<img src="demos/ex_demo.gif" alt="Demo Gif" width="300" />
+<img src="demos/ex_demo.gif" alt="Demo Gif" width="600" />
 
 ## Current Features
 
