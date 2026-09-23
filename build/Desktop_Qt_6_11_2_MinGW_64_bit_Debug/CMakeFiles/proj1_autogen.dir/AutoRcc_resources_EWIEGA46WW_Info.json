@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/proj1_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/gonzalezpj/Documents/proj1",
+	"CMAKE_SOURCE_DIR" : "C:/Users/gonzalezpj/Documents/proj1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/proj1_autogen/include",
+	"INPUTS" : [ "C:/Users/gonzalezpj/Documents/proj1/images/plane.jpg" ],
+	"LOCK_FILE" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/proj1_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.11.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/gonzalezpj/Documents/proj1/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/proj1_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/gonzalezpj/Documents/proj1/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
