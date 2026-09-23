@@ -6,6 +6,10 @@ I started this project as a way to improve my C++ and Qt skills while working on
 
 The sensor data used in this project is completely simulated and is not based on any real aircraft or avionics system.
 
+## Example GIF
+
+![Demo_gif](demos/ex_demo.gif)
+
 ## Current Features
 
 - Reads sensor data from a CSV file
